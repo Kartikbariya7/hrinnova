@@ -213,6 +213,7 @@
       <DependentUpon>Database_Hrinnova.tt</DependentUpon>
     </Compile>
     <Compile Include="Controllers\AllHolidayListController.cs" />
+    <Compile Include="Controllers\DimattendancemonthlyController.cs" />
     <Compile Include="Controllers\MandatoryHolidayController.cs" />
     <Compile Include="Controllers\OptionalHolidayController.cs" />
     <Compile Include="Controllers\Probation_PeriodController.cs" />
@@ -539,6 +540,7 @@
     <Compile Include="Models\AuthenticationRequest.cs" />
     <Compile Include="Models\AuthenticationResponse.cs" />
     <Compile Include="Models\BotAuthenticationModal.cs" />
+    <Compile Include="Models\DimattendancemonthlyModel.cs" />
     <Compile Include="Models\HolidayList1.cs" />
     <Compile Include="Models\MandatoryHolidayList.cs" />
     <Compile Include="Models\OptionalHolidayList.cs" />
